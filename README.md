@@ -1,11 +1,3 @@
-# gew
-Gupta Engineering Works
+UGC
 
-Demo:
-[www.guptaenggworks.com](https://www.guptaenggworks.com)
-
-Demo:
-[www.guptaenggworks.com](https://www.guptaenggworks.com)
-
-Demo:
-[www.guptaenggworks.com](https://www.guptaenggworks.com)
+Unified Garbage 
